@@ -1,0 +1,11 @@
+{
+  "org": "hyperopt",
+  "repo": "hyperopt",
+  "versions": [
+    {
+      "commit": "9834314879c09c13e0b8e93eb678408ba46441a8",
+      "tag": "v0.3.0",
+      "parsed_at": "2026-10-18T13:53:17.814755+00:00"
+    }
+  ]
+}
