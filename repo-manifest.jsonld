@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/hyperopt/hyperopt/commit/9834314879c09c13e0b8e93eb678408ba46441a8",
       "git:hexsha": "9834314879c09c13e0b8e93eb678408ba46441a8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.3.0",
+      "repolex:parsedAt": "2026-10-18T13:53:17.682964+00:00"
     },
     {
       "@id": "https://repolex.ai/r/hyperopt/hyperopt/commit/7777a43485af5177b064d4d7f2c3a0b1f644771e",
